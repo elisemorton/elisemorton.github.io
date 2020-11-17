@@ -5,11 +5,11 @@
 - title: Courses
   url: /courses/
 
-- title: CV
-  url: /cv/
-
 - title: People
   url: /people/
 
 - title: Projects
   url: /projects/
+   
+- title: CV
+  url: /cv/
