@@ -9,15 +9,15 @@ Fairleigh Dickinson University
 ## Education
 
 `2016-present`
-__UNIVERSITY OF FLORIDA__
+__UNIVERSITY OF FLORIDA__, 
 Ph.D., SNRE, Wildlife Ecology and Conservation
 
 `2006-2013`
-__INDIANA UNIVERSITY__
+__INDIANA UNIVERSITY__, 
 Ph.D., Biology
 
 `1998-2002`
-__WEST VIRGINIA UNIVERSITY__
+__WEST VIRGINIA UNIVERSITY__, 
 B.S., Animal and Veterinary Science
 
 ## Research and Professional Experience
@@ -113,6 +113,6 @@ Morton, E.R., M.L. Goodkin, and J.A. Blaho. 2004. Prevention of Apoptosis by HSV
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2020 -->
 
 
