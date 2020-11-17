@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
 
 Assistant Professor
 Department of Biological Sciences
