@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am an Assistant Professor in the Department of Biological Sciences at Fairleigh Dickinson University. Research in my lab is broadly focused on avian ecology and conservation. 
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Long-term diversity dynamics of Afromontane tropical forest bird communities
+- Partial migration of Red-headed Woodpeckers
+- Evolution of avian eye color
