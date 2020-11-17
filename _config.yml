@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Elise Morton
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Elise Morton
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "This is ... website."
+  email: elisemorton@fdu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: EliseRMorton
   linkedin: #username
-  github: laderast
+  github: elisemorton
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  researchgate: Elise R Morton
   mendeley: #username
   google:
     plus: #username
