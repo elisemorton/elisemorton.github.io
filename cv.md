@@ -2,6 +2,8 @@
 layout: resume
 ---
 
+## Currently
+
 Assistant Professor
 Department of Biological Sciences
 Fairleigh Dickinson University
