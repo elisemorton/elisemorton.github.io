@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am an Assistant Professor in the Department of Biological Sciences at Fairleigh Dickinson University. Research in my lab is broadly focused on avian ecology, behavior, and conservation. Integrating field biology, quantitative models, and ecological theory our primary goals are to understand and quantify how biological populations and communities respond to environmental variables across space and time and identify how and what species’ characteristics determine those responses.
+Research in my lab is broadly focused on avian ecology, behavior, and conservation. Integrating field biology, quantitative models, and ecological theory we are interested in a diverse set of questions aimed at understanding how biological populations and communities respond to environmental variables across space and time.
 
 ## Current Interests and Projects:
 
