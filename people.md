@@ -3,5 +3,5 @@ layout: page
 title: Undergraduate Students
 ---
 
-## Current Undergraduate Students
+__Current__
 
