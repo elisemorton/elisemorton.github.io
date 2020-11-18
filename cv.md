@@ -41,7 +41,7 @@ Research Coordinator, Mount Sinai School of Medicine
 
 ## Publications
 
-### Journals
+__Journals__
 
 Morton, E. R., McGrady, M. J., Newton, I., Rollie, C. J., Smith, G. D., Mearns, R., & Oli, M. K. (2018). Dispersal: a matter of scale. *Ecology*, 99(4), 938-946.
 
@@ -65,8 +65,7 @@ Morton, E. R. and J. A. Blaho. 2007. Herpes Simplex Virus Blocks Fas-Mediated Ap
 
 Goodkin M. L., E. R. Morton, J. A. Blaho. 2004. Herpes Simplex Virus Infection and Apoptosis. *International Review of Immunology*, 23:141-172.
 
-
-### Book chapters
+__Book chapters__
 
 Morton, E. R. and C. Fuqua. 2012. Laboratory Maintenance of Agrobacterium. Current Protocols in Microbiology. Chapter 1, Unit3D.1. 
 
@@ -76,7 +75,7 @@ Morton, E. R. and C. Fuqua. 2012. Phenotypic Analyses of Agrobacterium. Current 
 
 Blaho, J.A., Morton, E.R. and Yedowitz, J.C., 2005. Herpes simplex virus: propagation, quantification, and storage. Current protocols in Microbiology Chapter 14:Unit 14E.1.
 
-### Other scientific communications
+__Other scientific communications__
 
 Bahls, J., Morton, E. R., and Gambone, J. V. White Paper of Bird Window Collisions (BWC). 2014.
 
