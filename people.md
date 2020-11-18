@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Undergraduate Students
+title: People
+excerpt: "Undergraduate Students"
 ---
 
 ## Current Undergraduate Students
