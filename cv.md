@@ -4,8 +4,8 @@ layout: resume
 
 ## Currently
 
-Assistant Professor
-Department of Biological Sciences
+Assistant Professor\
+Department of Biological Sciences\
 Fairleigh Dickinson University
 
 ## Education
