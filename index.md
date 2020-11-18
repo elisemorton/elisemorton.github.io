@@ -8,6 +8,7 @@ I am an Assistant Professor in the Department of Biological Sciences at Fairleig
 ## Current Interests and Projects:
 
 - Long-term diversity dynamics of Afromontane tropical forest bird communities
+- Elevational patterns of habitat specialization
 - Partial migration of Red-headed Woodpeckers
 - Evolution of avian eye color
 - Effects of artifical light at night on Chimney swift roosting behavior
